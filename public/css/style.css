@@ -119,3 +119,33 @@ footer ul li a {
     text-decoration: none;
     color: #777;
 }
+
+form {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.result-container {
+    text-align: center;
+    line-height: 2rem;
+}
+
+.movie-data-list {
+    list-style: none;
+    line-height: 2rem;
+}
+
+span {
+    font-weight: bold;
+}
+
+img {
+    width: 250px;
+    border-radius: 5px;
+}
+
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
